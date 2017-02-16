@@ -1,3 +1,6 @@
-def sayhello ():
-    print "hello there"
-    print "my name is maryanne"
+class First(object):
+    pass
+
+fr = First()
+print (type(fr))
+print (type (First))
