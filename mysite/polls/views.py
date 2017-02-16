@@ -5,5 +5,6 @@ from django.http import HttpResponse
 
 
 #homepage view.
+#to learn how to create views with render.
 def index(request):
     return HttpResponse("Hello from polls.")
