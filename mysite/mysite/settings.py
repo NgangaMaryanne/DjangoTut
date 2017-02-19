@@ -85,7 +85,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'polls',
         'USER': 'postgres',
-        'PASSWORD': '5046',
+        'PASSWORD': '',
         'HOST': '',
         'PORT': '',
     }
